@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing, water heaters, and gas piping. Across Fontana and the Inland Empire. Donald looks at the job first and puts the price in writing.';
+            'Plumbing, water heaters, and gas piping in Fontana. Donald looks at the job first and puts the price in writing.';
         }
       }
     },
