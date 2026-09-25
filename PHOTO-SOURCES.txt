@@ -1,12 +1,20 @@
-PHOTO SOURCES — hs-025-donbrown Don Brown Plumbing (Wave 6 2026-09-22 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-025-donbrown Don Brown Plumbing Contractor (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential plumbing pipes/fixtures (verified; NOT window cleaner)
-services-trade.jpg — pipes/gas piping or fixture set (verified)
-job041-* — pipe/fitting B/A typical (verified prior-wave library)
-job-elec-* slots — faucet/fixtures + under-sink or WH (verified)
-job052-* — water heater / sewer drain typical (verified)
-people-* — tools/toolbox/crew — NOT owner face
-coverage-house.jpg — residential exterior
-Rejected: indoor potting, bicycle, coffee-roast, apartment mislabels — not used
-Sources: Wave6 Unsplash/Pexels downloads verified 2026-09-22 PT + prior Wave library
+hero-site.jpg <- wave11/plumb-gas-meter-pipes.jpg : gas meter, regulator, and piping on brick (prior verified library wave6/plumb-pipes-w6.jpg)
+services-trade.jpg <- wave11/plumb-wrenches-pipe.jpg : pipe wrenches on a pipe (rawpixel CC0 5904346)
+people-crew.jpg <- wave11/tools-wrenches-dark.jpg : wrench set, dark background (StockSnap CC0 F91K0WLE2D)
+people-marek.jpg <- wave11/copper-valves-filter.jpg : copper supply lines with red ball valves and a filter housing (rawpixel CC0 6041215)
+people-tom.jpg <- wave11/kitchen-faucet-chrome.jpg : chrome pull-down kitchen faucet (StockSnap CC0 XVEZZZGCXA)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+plumb-iron-fittings.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
+plumb-gas-meter-pipes.jpg <- wave11/plumb-gas-meter-pipes.jpg : gas meter, regulator, and piping on brick (prior verified library wave6/plumb-pipes-w6.jpg)
+tools-wrenches-wood.jpg <- wave11/tools-wrenches-wood.jpg : wrenches on a wood bench (Flickr CC0 32708495171)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+plumb-under-sink-hands.jpg <- wave11/plumb-under-sink-hands.jpg : hands fitting a supply line under a sink, no face (prior verified library wave2/under-sink.jpg)
+bath-sink-tile.jpg <- wave11/bath-sink-tile.jpg : bathroom sink and faucet, dark tile (StockSnap CC0 D3901L7G93)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: Wordmark fixed to Don Brown Plumbing (prior build read 'Don Brown Plumbing &amp; Sewer lateral'). Leftover tonysplumbing domain ideas removed. donbrownplumbing.com is registered, dropped. No license number on page.
